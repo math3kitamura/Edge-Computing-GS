@@ -25,13 +25,13 @@ Para solucionar esse problema, este projeto tem como objetivo **simular uma rua 
 
 O sistema utiliza um sensor ultrassônico (HC-SR04) para medir a altura da água simulada sobre a rua. A lógica de funcionamento é baseada na distância medida:
 
-- **Nível Baixo (≥ 80 cm)**:  
+- **Nível Baixo (> 80 cm)**:  
   LED verde aceso. Situação segura, sem ações adicionais.
 
-- **Nível Alto (entre 30 cm e 79 cm)**:  
+- **Nível Alto (entre 31cm e 80 cm)**:  
   LED amarelo aceso. Indica atenção; a bomba entra em modo de espera.
 
-- **Nível Crítico (≤ 30 cm)**:  
+- **Nível Crítico (≤ 31 cm)**:  
   LED vermelho aceso, buzzer ativado e servo motor aciona a bomba de drenagem simulada.
 
 As leituras são atualizadas constantemente, permitindo que o sistema reaja em tempo real, sem necessidade de intervenção manual.
