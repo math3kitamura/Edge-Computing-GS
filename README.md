@@ -19,7 +19,7 @@ Para solucionar esse problema, este projeto tem como objetivo **simular uma rua 
 
 - Detectar o nível de água acumulada na rua por meio do **sensor ultrassônico HC-SR04**  
 - Emitir **alertas visuais (LEDs)** e **sonoros (buzzer)** de acordo com o nível de risco  
-- Acionar automaticamente uma **bomba de drenagem simulada por um servo motor** quando o nível crítico de alagamento é atingido  
+- Acionar automaticamente uma **bomba de drenagem simulada por um servo motor** quando o nível crítico de alagamento é atingido
 
 ## Funcionamento
 
@@ -38,6 +38,12 @@ As leituras são atualizadas constantemente, permitindo que o sistema reaja em t
 
 Para testar o sistema, basta alterar manualmente a distância entre o sensor e a "superfície da água". Isso permite verificar a resposta dos LEDs, do buzzer e do servo motor conforme as condições simuladas.
 
+## 📷 Imagem do Projeto no Wokwi
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab55e6f3-c652-442e-bb08-1d2369722c07" alt="Simulação do circuito" width="800"/>
+</p>
+
 ## 🔗 Link para o Projeto no Wokwi
 
 [Projeto no Wokwi](https://wokwi.com/projects/432243058316748801)
+
