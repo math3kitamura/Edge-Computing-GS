@@ -49,5 +49,5 @@ Para testar o sistema, basta alterar manualmente a distância entre o sensor e a
 
 ## 🔗 Link para o Projeto no Youtube
 
-[Projeto no Youtube]((https://www.youtube.com/watch?v=7mpA8zQmfrM))
+[Projeto no Youtube](https://www.youtube.com/watch?v=7mpA8zQmfrM)
 
