@@ -47,3 +47,7 @@ Para testar o sistema, basta alterar manualmente a distância entre o sensor e a
 
 [Projeto no Wokwi](https://wokwi.com/projects/432243058316748801)
 
+## 🔗 Link para o Projeto no Youtube
+
+[Projeto no Youtube]((https://www.youtube.com/watch?v=7mpA8zQmfrM))
+
